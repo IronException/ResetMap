@@ -1,2 +1,4 @@
 # ResetMap
-a journeymap plugin
+
+ResetMap is a plugin for Journey Map.
+
